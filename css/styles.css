@@ -209,25 +209,98 @@ a:focus {
     text-align: center;
 }
 
+#sixties {
+    font-size: 600px;
+    text-align: center;
+}
+
+#seventies {
+    font-size: 600px;
+    text-align: center;
+}
+
+#eighties {
+    font-size: 600px;
+    text-align: center;
+}
+
+#nineties {
+    font-size: 600px;
+    text-align: center;
+}
+
+#microsoft-company {
+    font-size: 250px;
+    line-height: 150px;
+    text-align: right;
+}
+
+#microsoft-company .company {
+    font-size: 150px;
+    line-height: 150px;
+    color: gray;
+}
+
+#microsoft-community {
+    font-size: 250px;
+    line-height: 150px;
+    text-align: right;
+}
+
+#microsoft-community .community {
+    font-size: 150px;
+    line-height: 150px;
+    color: gray;
+}
+
+#journey {
+    font-size: 150px;
+    line-height: 50px;
+    text-align: right;
+    color: gray;
+}
+
+#journey .journey {
+    font-size: 250px;
+    line-height: 150px;
+    color: black;
+}
+
 #game {
     font-size: 22px;
 }
 
-#learning {
-    width: 600px;
+#why-not {
+    width: 800px;
+    text-align: center;
+    font-size: 150px;
+    line-height: 1;
+}
+
+#why-not .why {
+    font-size: 150px;
+    line-height: 250px;
+}
+
+#why-not .question {
+    font-size: 300px;
+    line-height: 150px;
+}
+
+#why {
+    width: 800px;
     text-align: center;
     font-size: 60px;
     line-height: 1;
 }
 
-#learning .learning {
-    display: block;
-    font-size: 250px;
+#why .why {
+    font-size: 150px;
     line-height: 250px;
 }
 
-#learning .doing {
-    font-size: 90px;
+#why .question {
+    font-size: 300px;
     line-height: 150px;
 }
 
